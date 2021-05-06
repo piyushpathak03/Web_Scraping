@@ -14,4 +14,4 @@ soupsieve==2.0.1
 urllib3==1.25.9
 Werkzeug==1.0.1
 wincertstore==0.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
